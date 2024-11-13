@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "App_Service_Dev_Pcy": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7048",
+      "launchBrowser": false
+    }
+  }
+}
